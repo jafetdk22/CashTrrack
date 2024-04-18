@@ -1,0 +1,22 @@
+/* Estilos personalizados */
+.logo {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #000080; /* Azul marino */
+}
+
+.cards {
+    background-color: #FFFFFF; /* Blanco */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+    background-color: #0056b3; /* Azul marino */
+    border-color: #0056b3; /* Azul marino */
+}
+
+.btn-primary:hover {
+    background-color: #004080; /* Un tono más oscuro de azul marino */
+    border-color: #004080; /* Un tono más oscuro de azul marino */
+}
